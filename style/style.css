@@ -1,0 +1,225 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+body {
+    padding: 300px;
+    max-width: 1320px;
+    margin: auto;
+
+}
+
+#off {
+    margin-top: 35px;
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 100px;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#our {
+    color: red;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+}
+
+#all {
+    text-align: center;
+    font-size: 40px;
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.banner {
+    position: relative;
+
+
+
+}
+
+.banner img {
+    max-width: 100%;
+    height: auto;
+}
+
+.banner-text {
+    position: absolute;
+    top: 25%;
+    color: #fff;
+    padding: 10px;
+
+
+}
+
+.box {
+    margin-left: 250px;
+    padding: 50px;
+    margin-bottom: 30px;
+
+}
+
+.banner-text h2 {
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 5px;
+
+}
+
+/* .cover */
+    {
+    text-align: center;
+    margin-top: 80px;
+    display: flex;
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    justify-content: center;
+}
+
+img {
+    margin-top: 100px;
+}
+
+#w {
+
+
+    margin-bottom: 10px;
+    padding: ;
+    color: #e7e5e5;
+}
+
+/* .box{ */
+width: 500px;
+height: 600px;
+}
+
+#joy {
+    text-align: left;
+
+}
+
+#come {
+    text-align: left;
+    margin-top: 20px;
+}
+
+.banner-text-title {
+    position: absolute;
+    position: relative;
+    color: rgb(218, 221, 221);
+
+
+
+}
+
+.bannera {
+    width: 100%;
+    height: 65vh;
+    background-image: url('../Vectorrr.png');
+
+}
+
+#kk {
+    margin-left: 950px;
+    margin-bottom: 2px;
+    margin-right: 1px;
+}
+
+.party {
+    margin-left: 90px;
+    width: 1020px;
+    height: 482px;
+    flex-shrink: 0;
+    background-color: rgb(216, 179, 210);
+
+}
+
+.party-title {
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 10px;
+    display: block;
+    font-weight: 50;
+    margin-top: 100px;
+    text-align: center;
+    font: bold
+}
+
+#p {
+    color: rgb(202, 31, 31);
+    padding-top: 150px;
+}
+
+#d {
+    color: red;
+
+}
+
+#t {
+    color: red;
+}
+
+#j {
+    /* background-color: red; */
+    margin-top: 20px;
+    color: #dd0d0d;
+    display: inline-flex;
+    padding: 16px 32px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.containar {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    max-width: 800px;
+}
+
+#em {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #dd0d0d;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+#on {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    text: bold;
+    margin-bottom: 8px;
+}
+
+.center {
+    align-items: center;
+    margin-left: 50px;
+
+}
+
+.sal {
+    color: red;
+    font-size: 50px;
+    font-weight: 600;
+    margin-left: 50px;
+    margin-bottom: 5px;
+}
+#eet{
+    margin-left: 50px;
+}
+
+#gr {
+    width: 140px;
+    height: 140px;
+    margin-left: 50px;
+    margin-top: 10px;
+}
