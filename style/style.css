@@ -226,7 +226,7 @@ height: 600px;
 }
 
 .holidays {
-    max-width: 1050px;
+    max-width:850px;
     padding: ;
     /* background-color: antiquewhite; */
 
@@ -238,11 +238,16 @@ height: 600px;
     text-align: center;
 }
 
-#ho{
-color: red;
-font-size: 50px;
-/* display: flex; */
-text-align: center;
+#ho {
+    margin-left: 150px;
+    padding-left: 40px;
+    color: red;
+    font-size: 50px;
+    display: flex;
+    text-align: center;
+}
+#hatim{
+    font-size: 40px;
 }
 
 #fun {
@@ -272,10 +277,19 @@ text-align: center;
     /* margin-right: 50px */
     justify-content: left;
     margin-bottom: 150px;
-    
+
 }
-#ro{
+
+#ro {
     height: 350px;
     width: 250px;
     margin-bottom: 50px
+}
+
+#red {
+    width: 1000px;
+    height: 200px;
+    
+    margin-bottom:150px;
+    padding-bottom: 50%;
 }
