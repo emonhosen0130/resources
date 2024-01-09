@@ -398,12 +398,12 @@ height: 600px;
 footer {
     margin-top: 50px;
     width: 1700px;
-    height: 800px;
+    height: 1000px;
     flex-shrink: 0;
     background: #070211;
     line-height: 40px;
 }
-#location{
+.location{
     /* margin-top: 35px; */
     padding: 100px;
     color: #fff;
@@ -426,7 +426,7 @@ footer {
     color: #c52323;
 }
 
- #numbertt{
+ .numbertt{
     
     padding: 100px;
     margin-top: 70px;
@@ -455,4 +455,9 @@ footer {
     align-items: center;
     margin-left: 250px;
     margin-bottom: 50px;
+}
+#copy{
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
 }
