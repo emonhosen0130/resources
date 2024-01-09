@@ -397,8 +397,8 @@ height: 600px;
 
 footer {
     margin-top: 50px;
-    width: 1320px;
-    height: 609px;
+    width: 1700px;
+    height: 800px;
     flex-shrink: 0;
     background: #070211;
     line-height: 40px;
@@ -435,4 +435,24 @@ footer {
     font-size: 25px;
     font-weight: 500;
     /* text-align:end; */
+}
+.sosalf{
+    align-items: center;
+    margin-left: 250px;
+    margin-bottom: 50px;
+}
+.sosald{
+    align-items: center;
+    margin-left: 250px;
+    margin-bottom: 50px;
+}
+.sosals{
+    align-items: center;
+    margin-left: 250px;
+    margin-bottom: 50px;
+}
+.sosala{
+    align-items: center;
+    margin-left: 250px;
+    margin-bottom: 50px;
 }
