@@ -213,7 +213,8 @@ height: 600px;
     margin-left: 50px;
     margin-bottom: 5px;
 }
-#eet{
+
+#eet {
     margin-left: 50px;
 }
 
@@ -222,4 +223,59 @@ height: 600px;
     height: 140px;
     margin-left: 50px;
     margin-top: 10px;
+}
+
+.holidays {
+    max-width: 1050px;
+    padding: ;
+    /* background-color: antiquewhite; */
+
+}
+
+.sale {
+    /* width: 600px; */
+    /* height: 735px; */
+    text-align: center;
+}
+
+#ho{
+color: red;
+font-size: 50px;
+/* display: flex; */
+text-align: center;
+}
+
+#fun {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* margin-bottom: 10px; */
+
+}
+
+#ho {
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.rec {
+    width: 200px;
+    height: 250px;
+    /* justify-content: right; */
+    margin-left: 50px;
+    margin-bottom: 110px;
+
+}
+
+#up {
+    align-items: center;
+    width: 206.841px;
+    height: 206.841px;
+    /* margin-right: 50px */
+    justify-content: left;
+    margin-bottom: 150px;
+    
+}
+#ro{
+    height: 350px;
+    width: 250px;
+    margin-bottom: 50px
 }
